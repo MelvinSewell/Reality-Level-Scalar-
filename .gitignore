@@ -1,0 +1,19 @@
+# Git ignore file for Reality-Level-Scalar™
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup or temp files
+*.bak
+*.tmp
+*.swp
+
+# Markdown previews and cache
+.cache/
+preview.html
+node_modules/
+
+# Git artifacts
+*.orig
+*.log
