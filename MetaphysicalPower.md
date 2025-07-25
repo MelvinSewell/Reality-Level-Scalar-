@@ -484,7 +484,7 @@
 
 &nbsp;       <div class="formula">
 
-&nbsp;           <p>\\\[ \\text{Metaphysical Power} = \\left( \\frac{F \\cdot D}{t} \\right) \\cdot \\Xi \\cdot SQ \\]</p>
+&nbsp;           <p>\\\[{Metaphysical Power} = ( \\frac{F \\cdot D}{t}) \\cdot \\Xi \\cdot SQ \\]</p>
 
 &nbsp;       </div>
 
